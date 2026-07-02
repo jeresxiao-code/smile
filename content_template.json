@@ -1,0 +1,29 @@
+{
+  "keyword": "Skill",
+  "title_line_1": "Skill越强，",
+  "title_line_2": "你的人生越有选择权！",
+  "subtitle": "不是资源决定上限，而是能力决定未来",
+  "badge": "真正有价值的Skill具备3个特征",
+  "items": [
+    {
+      "num": "01",
+      "title": "可迁移",
+      "desc": "能在不同场景、行业、平台复用，让你走得更远。",
+      "icon": "idea"
+    },
+    {
+      "num": "02",
+      "title": "可解决问题",
+      "desc": "有明确的应用场景和结果，能帮你创造实际价值。",
+      "icon": "gear"
+    },
+    {
+      "num": "03",
+      "title": "可持续成长",
+      "desc": "通过刻意练习和持续迭代，让你的能力不断升级。",
+      "icon": "growth"
+    }
+  ],
+  "footer": "Skill不是炫耀的标签，而是你掌控人生的工具。",
+  "bottom_note": "投资Skill，就是投资你的未来。"
+}
